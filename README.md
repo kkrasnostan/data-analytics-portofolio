@@ -23,19 +23,6 @@ https://github.com/kkrasnostan/hospital-patient-analytics
 
 ---
 
-## Sales Dashboard Analysis (Python)
-**Tools:** Python, pandas, matplotlib, Jupyter Notebook
-
-- Cleaned and prepared raw sales data for structured analysis  
-- Defined and calculated key business KPIs including revenue, average order value, customer count, and order volume  
-- Analyzed product and category performance to identify trends and revenue drivers  
-- Visualized sales performance over time to support reporting and decision-making  
-
-Repository:  
-https://github.com/kkrasnostan/sales-dashboard-analysis
-
----
-
 ## Hotel Guest Reviews Analysis (NLP, Python, SQL)
 **Tools:** Python, SQL, Natural Language Processing
 
@@ -58,6 +45,19 @@ https://github.com/kkrasnostan/hotel-guest-reviews-analysis
 
 Repository:  
 https://github.com/kkrasnostan/la-traffic-accidents-datathon
+
+---
+
+## Sales Dashboard Analysis (Python)
+**Tools:** Python, pandas, matplotlib, Jupyter Notebook
+
+- Cleaned and prepared raw sales data for structured analysis  
+- Defined and calculated key business KPIs including revenue, average order value, customer count, and order volume  
+- Analyzed product and category performance to identify trends and revenue drivers  
+- Visualized sales performance over time to support reporting and decision-making  
+
+Repository:  
+https://github.com/kkrasnostan/sales-dashboard-analysis
 
 ---
 
